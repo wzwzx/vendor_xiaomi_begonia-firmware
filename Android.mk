@@ -7,4 +7,4 @@ $(notdir \
 )
 endef
 
--include vendor/redmi/begonia-firmware/begonia-firmware.mk
+-include vendor/xiaomi/begonia-firmware/begonia-firmware.mk
